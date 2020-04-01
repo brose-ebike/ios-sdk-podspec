@@ -1,0 +1,21 @@
+{
+    "name": "BroseSDK",
+    "version": "0.0.1",
+    "summary": "BroseSDK for iOS",
+    "homepage": "http://grandcentrix.net/",
+    "authors": "grandcentrix GmbH",
+    "source": {
+        "http": "https://github.com/grandcentrix/brose-ios-sdk/releases/download/0.0.1/BroseSDK.framework.zip"
+    },
+    "platforms": {
+        "ios": "12.0"
+    },
+    "vendored_frameworks": [
+        "BroseSDK.framework"
+    ],
+    "requires_arc": true,
+    "license": {
+        "type": "Copyright",
+        "text": ""
+    }
+}
