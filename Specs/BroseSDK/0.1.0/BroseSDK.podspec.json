@@ -13,6 +13,11 @@
     "vendored_frameworks": [
         "BroseSDK.framework"
     ],
+    "dependencies": {
+      "SwiftProtobuf": [
+        "1.8.0"
+      ]
+    },
     "requires_arc": true,
     "license": {
         "type": "Copyright",
