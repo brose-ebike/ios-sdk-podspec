@@ -1,0 +1,26 @@
+{
+    "name": "BroseSDK",
+    "version": "0.3.3",
+    "summary": "BroseSDK for iOS",
+    "homepage": "http://grandcentrix.net/",
+    "authors": "grandcentrix GmbH",
+    "source": {
+        "http": "https://github.com/brose-ebike/ios-sdk-podspec/releases/download/0.3.3/BroseSDK.xcframework.zip"
+    },
+    "platforms": {
+        "ios": "12.0"
+    },
+    "vendored_frameworks": [
+        "BroseSDK.xcframework"
+    ],
+    "dependencies": {
+        "SwiftProtobuf": [
+            "1.8.0"
+        ]
+    },
+    "requires_arc": true,
+    "license": {
+        "type": "Copyright",
+        "text": ""
+    }
+}
