@@ -17,4 +17,6 @@ Have in mind after adding a new source you might have to call `pod repo update`.
 ## License
 
 © 2021 Brose Fahrzeugteile SE & Co. KG, Coburg
+
+## Contact
 Do you need more information? Get in touch! Contact [brose-ebike.com](https://www.brose-ebike.com/de-en/company/contactform.html)
