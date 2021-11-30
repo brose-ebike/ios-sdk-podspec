@@ -2,8 +2,8 @@
     "name": "BroseSDK",
     "version": "0.3.4",
     "summary": "BroseSDK for iOS",
-    "homepage": "http://grandcentrix.net/",
-    "authors": "grandcentrix GmbH",
+    "homepage": "https://www.brose-ebike.com/",
+    "authors": "Brose Fahrzeugteile SE & Co. KG, Coburg",
     "source": {
         "http": "https://github.com/brose-ebike/ios-sdk-podspec/releases/download/0.3.4/BroseSDK.xcframework.zip"
     },
